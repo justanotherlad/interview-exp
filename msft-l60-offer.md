@@ -10,7 +10,7 @@ Location: Hyderabad, India
 Base Salary: INR 22,00,000 (INR 10,38,400 Basic + INR 11,61,600 Allowances,i.e., HRA,LTA,PF,etc.)
 Relocation Bonus: - NA
 Signing Bonus: - INR 1,00,000
-Stock bonus: $40K stock grant vested over a period of 4 years.
+Stock bonus: $40K stock grant vested over a period of 4 years
 Bonus: Performance-based bonus up to 20% of salary every year
 Total CTC: ~ INR 33.5 LPA
 Benefits: Usual Microsoft benefits
