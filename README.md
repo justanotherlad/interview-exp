@@ -97,6 +97,27 @@
       * etc.
   * Project based grilling
   * Given two nodes in a BST, find LCA ([Leetcode Medium](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/))
-  #### Verdict: 
+  #### Verdict: Offer ⭐
+
+<br>
+<br>
+
+* ### Lenovo
+  > Desc: Chinese multinational technology company \
+  > Role: Search Specialist (Contractual) \
+  > Referred by: [Akshatha N](https://www.linkedin.com/in/akshatha-n-8873bb108/) 
+  #### Telephonic Round
+  > Date: Thu, 23rd Nov 2023 \
+  > Interviewer: [Harish Kulkarni](https://www.linkedin.com/in/harish-kulkarni-530a4113/) (Web Product Manager - Site Search) 
+  * Project-based questions, "what are your top skills", etc. \
+   #### On-Site Round
+  > Date: Thu, 30th Nov 2023 \
+  > Interviewer: [Harish Kulkarni](https://www.linkedin.com/in/harish-kulkarni-530a4113/) (Web Product Manager - Site Search), [Supritha Ravi](https://www.linkedin.com/in/supritha-ravi-89b201164/)  (Senior eCommerce Search Developer)
+  * Technical Questions:
+      * domain knowledge: explain work ex, workflow/dataflow of search frontend-to-backend, familiarity with Solr/ElasticSearch, filter-based search, etc.
+  * Behavioral questions:
+      * How good are you in communication, etc.
+    
+  #### Verdict:
   
 
