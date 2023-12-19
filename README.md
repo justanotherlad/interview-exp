@@ -109,7 +109,7 @@
   #### Telephonic Round
   > Date: Thu, 23rd Nov 2023 \
   > Interviewer: [Harish Kulkarni](https://www.linkedin.com/in/harish-kulkarni-530a4113/) (Web Product Manager - Site Search) 
-  * Project-based questions, "what are your top skills", etc. \
+  * Project-based questions, "what are your top skills", etc.
    #### On-Site Round
   > Date: Thu, 30th Nov 2023 \
   > Interviewer: [Harish Kulkarni](https://www.linkedin.com/in/harish-kulkarni-530a4113/) (Web Product Manager - Site Search), [Supritha Ravi](https://www.linkedin.com/in/supritha-ravi-89b201164/)  (Senior eCommerce Search Developer)
@@ -118,6 +118,6 @@
   * Behavioral questions:
       * How good are you in communication, etc.
     
-  #### Verdict:
+  #### Verdict: Ghosted ☠️
   
 
