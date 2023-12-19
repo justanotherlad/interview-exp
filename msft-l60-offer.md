@@ -3,7 +3,7 @@ Education: B.Tech in Information Technology from Tier - II college
 Years of Experience: 2.5
 Prior Experience: Wolfram|Alpha Search Developer(Consultant) for 2.5 years.
 Previous Compensation (fixed amount): $2000/month
-Date of the Offer: December 2023
+Date of the Offer: December 6, 2023
 Company: Microsoft India (R&D) Pvt. Ltd. 
 Title/Level: Software Engineer/ L60
 Location: Hyderabad, India
