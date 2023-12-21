@@ -61,7 +61,7 @@
   > Desc: Microsoft India Development Center (IDC) \
   > Role: SDE-II , People Also Ask team (Bing Relevance) \
   > Referred by: [Anand Raman](https://www.linkedin.com/in/anand-raman-98394111/) \
-  > Recruiter/HM: [Sandeep Aparajit](https://www.linkedin.com/in/sandeepaparajit/)
+  > Recruiter/HM: [Sandeep Aparajit](https://www.linkedin.com/in/sandeepaparajit/) / [Suneeta Parik](https://www.linkedin.com/in/suneetaparik/)
   #### Informational Call
   > Date: Fri, Oct 13 2023 \
   > Interviewer: [Sandeep Aparajit](https://www.linkedin.com/in/sandeepaparajit/) (Principal Data Science Manager)
@@ -118,6 +118,7 @@
   * Behavioral questions:
       * How good are you in communication, etc.
     
-  #### Verdict: Ghosted ☠️
+  #### Verdict: Got Ghosted ☠️
+  (Personal scrunity: Company lacked budget)
   
 
