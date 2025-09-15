@@ -28,6 +28,7 @@
   > Interviewer: [Jnaneswar Vanga](https://www.linkedin.com/in/jv1522/) (Full Stack Engineer) 
   * API Development Round: Develop a REST API using Flask/FastAPI that takes input and does some sort of encryption algorithm on it, since CV mentioned past experience in cryptography (referring FastAPI docs was allowed). \
     Use best Software Development practices like creating virtual env, listing dependencies in `requirement.txt`, etc.
+  > My solution: [Ford/text_encryption_ford]
   #### Verdict: No Offer
   (Personal scrutiny: needed someone with more expertise in the area)
 
@@ -71,6 +72,7 @@
   > Interviewer: [Jagjot Singh](https://www.linkedin.com/in/jaggahurts/) (SWE-II)
   * Given a Directed Acyclic Graph (DAG), do a Topological Sort of it's vertices ([Leetcode Medium](https://leetcode.com/problems/course-schedule/))
   * Low Level Design: Design a LLD of the Snake & Ladder game.
+  > My solution: [toposort.cpp](Microsoft/toposort.cpp) , [snake_and_ladder.cpp](Microsoft/snake_and_ladder.cpp)
   #### Round 2
   > Date: Thu, Oct 26 2023 \
   > Interviewer: [Venkat Balabhadra](https://www.linkedin.com/in/venkatbalabhadra/) (Senior SWE Manager)
@@ -88,6 +90,7 @@
       * Where do you see yourself in 5 years?
       * etc.
   * Return subtrees in a BST whose nodes lie within a given range ([Leetcode Medium](https://www.techiedelight.com/count-subtrees-bst-whose-nodes-within-range/))
+  > My solution: [validsubtree.cpp](Microsoft/validsubtree/cpp)
   #### Round 5 (As Appropriate Round)
   > Date: Tue, 21st Nov 2023 \
   > Interviewer: [Sushil Chordia](https://www.linkedin.com/in/sushil-chordia-2576761/) (GM, Engineering)
@@ -97,6 +100,7 @@
       * etc.
   * Project based grilling
   * Given two nodes in a BST, find LCA ([Leetcode Medium](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/))
+  > My solution: [lca.cpp](Microsoft/lca.cpp)
   #### Verdict: Offer ⭐ ([offer details](Microsoft/msft-l60-offer.md))
 
 <br>
