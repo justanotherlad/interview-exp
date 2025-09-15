@@ -97,7 +97,7 @@
       * etc.
   * Project based grilling
   * Given two nodes in a BST, find LCA ([Leetcode Medium](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/))
-  #### Verdict: Offer ⭐ ([offer details](https://github.com/justanotherlad/interview-exp/blob/main/msft-l60-offer.md))
+  #### Verdict: Offer ⭐ ([offer details](Microsoft/msft-l60-offer.md))
 
 <br>
 <br>
